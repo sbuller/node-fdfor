@@ -1,0 +1,23 @@
+{
+  "name": "fdfor",
+  "version": "1.0.0",
+  "description": "Have an expensive getter? Need an fd? Use this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbuller/node-fdfor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbuller/node-fdfor/issues"
+  },
+  "homepage": "https://github.com/sbuller/node-fdfor#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "mkdirp": "^0.5.1"
+  }
+}
